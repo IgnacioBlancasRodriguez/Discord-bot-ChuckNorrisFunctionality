@@ -5,7 +5,7 @@ This is a litle ten-minute project that I did as a way to try the requests modul
 ### What does it do?
 The bot's pretty simple, In fact, we can divide it in three short steps:
 
->#### 1º Step
->The bot listens for any message containing the phrase "tell me a joke" comming from any user in the server:
+> ### <strong>1º Step</strong>
+> The bot listens for any message containing the phrase "tell me a joke" comming from any user in the server:
 >               
 >
