@@ -26,3 +26,15 @@ The bot's pretty simple, In fact, we can divide it in three short steps:
 >requests.get("https://api.chucknorris.io/jokes/random").json()["value"]
 >```
 >
+
+<hr>
+
+> ### <strong>3º Step</strong>
+> The bot sends the joke as an embended message:
+>```python
+>embed = discord.Embed(title="Here you go")
+>embed.add_field(name="Joke: ", value=str(requests.get("https://api.chucknorris.io/jokes/random").json()["value"]))
+>
+>await message.channel.send(content=None, embed=embed)
+>```
+>
