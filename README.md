@@ -13,7 +13,7 @@ The bot uses three main technologies:
 
 <hr>
 
-### 🔧What does it do?
+## 🔧What does it do?
 The bot's pretty simple, In fact, we can divide it in three short steps:
 
 > ### <strong>1º Step</strong>
