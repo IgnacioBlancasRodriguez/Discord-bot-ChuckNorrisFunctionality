@@ -1,8 +1,19 @@
-# Discord-bot-ChuckNorrisFunctionality
+# 💬Discord-bot-ChuckNorrisFunctionality
 
 This is a litle ten-minute project that I did as a way to try the requests module in python.
 
-### What does it do?
+<hr>
+
+## 🚀Technologies used
+
+The bot uses three main technologies:
+ * [Python](https://www.python.org/)
+ * [Discord.py](https://discordpy.readthedocs.io/en/latest/)
+ * [Request](https://pypi.org/project/requests/)
+
+<hr>
+
+### 🔧What does it do?
 The bot's pretty simple, In fact, we can divide it in three short steps:
 
 > ### <strong>1º Step</strong>
