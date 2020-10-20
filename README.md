@@ -17,7 +17,7 @@ The bot's pretty simple, In fact, we can divide it in three short steps:
 >```
 >
 
-<br>
+</h>
 
 > ### <strong>2º Step</strong>
 > The bot executes a GET request to a Chuck Norris jokes api:
