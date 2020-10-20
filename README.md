@@ -49,3 +49,29 @@ The bot's pretty simple, In fact, we can divide it in three short steps:
 >await message.channel.send(content=None, embed=embed)
 >```
 >
+
+<hr>
+
+## 💻How to use it
+
+Asuming you have installed the three technologies used:
+ * Windows, MacOS and Linux:
+    ```bat
+    pip install request
+    pip install discord.py
+    ```
+> ### <strong>Getting the api token</strong>
+> Go to your discord developer portal, create a new bot, copy the token on the token tab and paste it on token.json.
+>
+
+<hr>
+
+> ### <strong>Give permission to the bot</strong>
+> On the developer portal ckick on the OAuth tab, select Manage Messages and select a server you want the bot to be in.
+>
+
+<hr>
+
+> ### <strong>Ending</strong>
+> To finish just run the script main.py.
+>
